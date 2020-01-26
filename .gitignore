@@ -1,0 +1,5 @@
+.lock_status
+*.swp
+*.swo
+__pycache__
+log
